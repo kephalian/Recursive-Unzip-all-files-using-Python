@@ -1,5 +1,5 @@
 ---
-# Recursively Unzip all Zip files in a directory using Python Glob
+# Recursively Zip all files in a directory using Python Glob
 Using Python Glob to recursively UnZip all files in a Directory and Sub directory 
 
 ![Image1](https://github.com/kephalian/Recursive-Zip-all-files-using-Python/blob/main/Untitled.png)
